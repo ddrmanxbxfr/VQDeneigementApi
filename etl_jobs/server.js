@@ -28,7 +28,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
 console.log('Magic happens ');
-
+doRssLogic();
 
 
 var j = schedule.scheduleJob(rule, function(){
