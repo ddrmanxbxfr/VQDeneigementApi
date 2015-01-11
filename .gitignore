@@ -1,5 +1,8 @@
 *.class
 *.log
+.project
+.classpath
+node_modules
 
 # sbt specific
 .cache
