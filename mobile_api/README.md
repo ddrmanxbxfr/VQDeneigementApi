@@ -1,9 +1,8 @@
-# My Scalatra Web App #
+# VQ Deneigement API #
 
 ## Build & Run ##
 
 ```sh
-$ cd My_Scalatra_Web_App
 $ ./sbt
 > container:start
 > browse
